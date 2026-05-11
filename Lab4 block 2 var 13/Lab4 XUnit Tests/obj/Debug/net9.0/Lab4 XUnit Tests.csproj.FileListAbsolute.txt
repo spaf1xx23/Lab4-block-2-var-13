@@ -1,0 +1,5 @@
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 XUnit Tests\obj\Debug\net9.0\Lab4 XUnit Tests.csproj.AssemblyReference.cache
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 XUnit Tests\obj\Debug\net9.0\Lab4 XUnit Tests.GeneratedMSBuildEditorConfig.editorconfig
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 XUnit Tests\obj\Debug\net9.0\Lab4 XUnit Tests.AssemblyInfoInputs.cache
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 XUnit Tests\obj\Debug\net9.0\Lab4 XUnit Tests.AssemblyInfo.cs
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 XUnit Tests\obj\Debug\net9.0\Lab4 XUnit Tests.csproj.CoreCompileInputs.cache

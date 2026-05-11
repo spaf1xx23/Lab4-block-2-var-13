@@ -1,0 +1,5 @@
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 test unit\obj\Debug\net9.0\Lab4 test unit.csproj.AssemblyReference.cache
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 test unit\obj\Debug\net9.0\Lab4 test unit.GeneratedMSBuildEditorConfig.editorconfig
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 test unit\obj\Debug\net9.0\Lab4 test unit.AssemblyInfoInputs.cache
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 test unit\obj\Debug\net9.0\Lab4 test unit.AssemblyInfo.cs
+G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 test unit\obj\Debug\net9.0\Lab4 test unit.csproj.CoreCompileInputs.cache
