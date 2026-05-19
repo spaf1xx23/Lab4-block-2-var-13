@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Lab4 block 2 var 13/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Lab4 block 2 var 13.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab4 block 2 var 13.dll": {}
+        }
       }
     }
   },
@@ -932,10 +942,16 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Lab4 block 2 var 13/1.0.0": {
+      "type": "project",
+      "path": "../Lab4 block 2 var 13/Lab4 block 2 var 13.csproj",
+      "msbuildProject": "../Lab4 block 2 var 13/Lab4 block 2 var 13.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Lab4 block 2 var 13 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -943,32 +959,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oscar\\.nuget\\packages\\": {}
+    "/Users/annasviderko/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\П та АМ\\ДЗ\\Lab4 block 2 var 13\\Lab4 test unit\\Lab4 test unit.csproj",
+      "projectUniqueName": "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/Lab4 test unit.csproj",
       "projectName": "Lab4 test unit",
-      "projectPath": "G:\\П та АМ\\ДЗ\\Lab4 block 2 var 13\\Lab4 test unit\\Lab4 test unit.csproj",
-      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "G:\\П та АМ\\ДЗ\\Lab4 block 2 var 13\\Lab4 test unit\\obj\\",
+      "projectPath": "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/Lab4 test unit.csproj",
+      "packagesPath": "/Users/annasviderko/.nuget/packages/",
+      "outputPath": "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/annasviderko/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/Lab4 block 2 var 13.csproj": {
+              "projectPath": "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/Lab4 block 2 var 13.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -981,7 +999,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -1015,12 +1033,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/annasviderko/.dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

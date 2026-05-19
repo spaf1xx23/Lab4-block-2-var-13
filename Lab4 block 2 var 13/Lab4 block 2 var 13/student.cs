@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab4_block_2_var_13
 {
-    struct Student
+    public struct Student
     {
             public string surName;
             public string firstName;

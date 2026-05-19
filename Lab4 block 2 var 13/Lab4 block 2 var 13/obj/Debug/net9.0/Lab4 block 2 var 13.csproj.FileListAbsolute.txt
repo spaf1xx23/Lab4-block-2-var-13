@@ -1,5 +1,15 @@
-G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 block 2 var 13\obj\Debug\net9.0\Lab4 block 2 var 13.csproj.AssemblyReference.cache
-G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 block 2 var 13\obj\Debug\net9.0\Lab4 block 2 var 13.GeneratedMSBuildEditorConfig.editorconfig
-G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 block 2 var 13\obj\Debug\net9.0\Lab4 block 2 var 13.AssemblyInfoInputs.cache
-G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 block 2 var 13\obj\Debug\net9.0\Lab4 block 2 var 13.AssemblyInfo.cs
-G:\П та АМ\ДЗ\Lab4 block 2 var 13\Lab4 block 2 var 13\obj\Debug\net9.0\Lab4 block 2 var 13.csproj.CoreCompileInputs.cache
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/bin/Debug/net9.0/Lab4 block 2 var 13
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/bin/Debug/net9.0/Lab4 block 2 var 13.deps.json
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/bin/Debug/net9.0/Lab4 block 2 var 13.runtimeconfig.json
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/bin/Debug/net9.0/Lab4 block 2 var 13.dll
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/bin/Debug/net9.0/Lab4 block 2 var 13.pdb
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.AssemblyInfoInputs.cache
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.AssemblyInfo.cs
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.csproj.CoreCompileInputs.cache
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.sourcelink.json
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.dll
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/refint/Lab4 block 2 var 13.dll
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.pdb
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/Lab4 block 2 var 13.genruntimeconfig.cache
+/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/obj/Debug/net9.0/ref/Lab4 block 2 var 13.dll
