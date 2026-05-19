@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GGmIHau1BlQ=",
+  "dgSpecHash": "GPSL3GYe9nQ=",
   "success": true,
   "projectFilePath": "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/Lab4 test unit.csproj",
   "expectedPackageFiles": [
@@ -18,9 +18,7 @@
     "/Users/annasviderko/.nuget/packages/xunit.core/2.9.2/xunit.core.2.9.2.nupkg.sha512",
     "/Users/annasviderko/.nuget/packages/xunit.extensibility.core/2.9.2/xunit.extensibility.core.2.9.2.nupkg.sha512",
     "/Users/annasviderko/.nuget/packages/xunit.extensibility.execution/2.9.2/xunit.extensibility.execution.2.9.2.nupkg.sha512",
-    "/Users/annasviderko/.nuget/packages/xunit.runner.visualstudio/2.8.2/xunit.runner.visualstudio.2.8.2.nupkg.sha512",
-    "/Users/annasviderko/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/annasviderko/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512"
+    "/Users/annasviderko/.nuget/packages/xunit.runner.visualstudio/3.1.5/xunit.runner.visualstudio.3.1.5.nupkg.sha512"
   ],
   "logs": []
 }

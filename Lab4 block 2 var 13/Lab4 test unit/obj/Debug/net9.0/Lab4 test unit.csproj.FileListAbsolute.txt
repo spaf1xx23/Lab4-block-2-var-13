@@ -10,8 +10,6 @@
 /Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/Lab4 block 2 var 13.runtimeconfig.json
 /Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/Lab4 block 2 var 13
 /Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/xunit.runner.visualstudio.testadapter.dll
-/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/xunit.runner.reporters.netcoreapp10.dll
-/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/xunit.runner.utility.netcoreapp10.dll
 /Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/Lab4 test unit.deps.json
 /Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/Lab4 test unit.runtimeconfig.json
 /Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 test unit/bin/Debug/net9.0/Lab4 test unit.dll

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6zHz7OxSdkc=",
+  "dgSpecHash": "DktoweIld74=",
   "success": true,
   "projectFilePath": "/Users/annasviderko/Documents/GitHub/Lab4-block-2-var-13/Lab4 block 2 var 13/Lab4 block 2 var 13/Lab4 block 2 var 13.csproj",
-  "expectedPackageFiles": [
-    "/Users/annasviderko/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/annasviderko/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/annasviderko/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

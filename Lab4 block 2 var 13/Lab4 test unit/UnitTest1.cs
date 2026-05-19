@@ -1,6 +1,6 @@
 ﻿using Xunit;
 using Lab4_block_2_var_13;
-
+//dotnet test "Lab4 test unit/Lab4 test unit.csproj"
 public class StudentTests
 {
     [Fact]
